@@ -3,10 +3,6 @@ This is an open source radio kit project for elementary (Primary) school educati
 The basis is to get young people familiar with basic electronics, ICs and networking in one package. 
 
 
-Introduction
-
-Welcome to the Radio Kit documentation! This documentation provides essential information on using and contributing to the Radio Kit project. The Radio Kit is designed to be an open-source radio communication platform, enabling users to build and experiment with various wireless communication applications.
-
 Purpose of the Radio Kit
 
 The Radio Kit is intended to serve as a learning tool and prototyping platform for radio communication. It allows users to experiment with different frequencies, communication protocols, and antenna designs. Additionally, the kit can be used in educational settings to teach the fundamentals of wireless communication, basic electronic components and circuitry as well as building a foundation for young people to prototype with advanced technology theories.
