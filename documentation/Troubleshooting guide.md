@@ -1,6 +1,6 @@
 **Troubleshooting**
 
-The troubleshooting guide section is divided into multiple sections for easier isolation of issues. The issues are broadly categorized into *Installation and Assembly* as well as *Usage*. To find your specific fault simply refer to the troubleshooting guide to find what fault matches the one you are experiencing. **Please do note that this section of the guide is a technical guide for advanced users!**
+The troubleshooting guide section is divided into multiple sections for easier isolation of issues. The issues are broadly categorized into *Installation and Assembly* as well as *Usage*. To find your specific fault simply refer to the troubleshooting guide to find what fault matches the one you are experiencing. **Please do note that this guide is a technical guide for advanced users!**
 
 **1.0	Installation and Assembly** 
 
@@ -39,7 +39,7 @@ If after assembling and soldering the power section of the PCB, you get no power
 
 3.	If all connections are okay, then another likely cause of missing voltage on the VCC pin could be faulty capacitors. Using a multimeter in continuity mode, check the continuity from positive to negative/GND of the PCB. 
 
-There should be No continuity (an audible continuity beep from the meter). Instead, a reading of 0.2-0.5 Ω or greater on the meter should indicate properly working capacitors or any component connecting to ground e.g., diodes. 
+There should be No continuity (an audible continuity beep from the meter). Instead, a reading of 200-500 Ω or greater on the meter should indicate properly working capacitors or any component connecting to ground e.g., diodes. 
 
 An audible beep in continuity mode indicates a shorting to ground which is causing the IC not to output any voltage. Verify this by placing one probe of the multimeter on any ground pad and then placing the other probe on either side of all capacitors in the power section.
 
