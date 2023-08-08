@@ -1,9 +1,10 @@
-*STEP ONE: Gathering the required components*
+*Gathering the required components*
 
 In order to build our radio, the following components are required.
 These can be salvaged from reusable E-waste from any recycling operations near you,
 or from off-the-shelf electronic components shops. 
-*
+
+
 However, keeping in mind that our project's goal is to deliver STEM education while 
 also incorperating climate change adaptation and environmenatally sustainable practices, 
 we will be using recycled material as much as possible throughout the entire process.
