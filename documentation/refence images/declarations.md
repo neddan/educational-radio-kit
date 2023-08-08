@@ -8,7 +8,7 @@ Below are the links to datasheets for some of the parts used.
 
  https://pdf1.alldatasheet.com/datasheet-pdf/view/1144710/TPOWER/TP4333.html 
 
-    *NOTE* datasheet is in chinese, so any loacally available IC can be used but pay attention to the wiring diagrams of that particular IC solution as the schematic in this project may differ.
+***NOTE!** datasheet is in chinese, so any loacally available IC can be used but pay attention to the wiring diagrams of that particular IC solution as the schematic in this project may differ.*
 
 2. TDA2822M:
 
